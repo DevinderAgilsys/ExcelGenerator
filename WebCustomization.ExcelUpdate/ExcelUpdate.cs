@@ -60,6 +60,6 @@ namespace WebCustomization.ExcelUpdate
             log.LogInformation("ExcelUpdate - Sending response to the request");
             //Return the response with output excel stream
             return response;
-        } 
+        }
     }
 }
